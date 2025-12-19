@@ -1,0 +1,3 @@
+* italian-holidays
+
+Italian holidays for the GNU Emacs calendar.
