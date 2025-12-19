@@ -2,7 +2,8 @@
 
 ;; Copyright (C) Andrea Fiori
 
-;; Author: Andrea Fiori
+;; Author: Andrea Fiori <andrea.fiori.1998@gmail.com>
+;; URL: https://github.com/fioriandrea/italian-holidays
 ;; Package-Version: 1.0.0
 ;; Keywords: calendar
 
