@@ -1,3 +1,15 @@
 * italian-holidays
 
 Italian holidays for the GNU Emacs calendar.
+
+** Example Configuration
+
+#+begin_src elisp
+(use-package italian-holidays
+  :demand t
+  :ensure t
+  :vc (:url "https://github.com/fioriandrea/italian-holidays.git"
+            :rev :newest)
+  :config
+  (setq holiday-other-holidays holiday-italian-holidays-and-solemnities))
+#+end_src
